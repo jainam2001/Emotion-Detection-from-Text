@@ -38,7 +38,7 @@ Each number in the label vector corresponds to an emotion in this order:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/emotion-detection-svm.git
+git clone https://github.com/jainam2001/emotion-detection-svm.git
 cd emotion-detection-svm
 ```
 
