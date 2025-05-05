@@ -92,4 +92,4 @@ pip install scikit-learn numpy
 
 ## 👨‍💻 Author
 
-- **Your Name** - [GitHub](https://github.com/your-username)
+- Jainam Patel - [GitHub](https://github.com/jainam2001)
